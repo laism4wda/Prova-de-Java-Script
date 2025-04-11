@@ -1,0 +1,1 @@
+//e) let tem escopo global, var tem escopo de bloco e const é usada para constantes
