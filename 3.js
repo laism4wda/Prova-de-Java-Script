@@ -1,0 +1,13 @@
+let fila = []
+fila.push('Armando')
+console.log(fila)
+fila.push('Laís')
+console.log(fila)
+fila.push('Mariana')
+console.log(fila)
+fila.shift()
+console.log(fila)
+fila.shift()
+console.log(fila)
+fila.shift()
+console.log(fila)
